@@ -1,0 +1,11 @@
+###
+GET http://localhost:3030/
+
+###
+GET http://localhost:3030/hello
+
+###
+GET http://localhost:3030/hello/jeremy
+
+###
+GET http://localhost:3030/hellos/jeremy
